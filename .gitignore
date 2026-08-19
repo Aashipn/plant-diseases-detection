@@ -1,0 +1,17 @@
+# Ignore PyTorch model files (too large for GitHub)
+*.pt
+*.pth
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+env/
+.env
+
+# Visual Studio / IDEs
+.vs/
+.idea/
+.vscode/
